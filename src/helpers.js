@@ -32,7 +32,7 @@ const DUMMY_MEALS = [
             id: meal.id,
             name: meal.name,
             description: meal.description,
-            releaseDate: meal.releaseDate
+            price: meal.price
 
 
         }

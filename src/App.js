@@ -7,7 +7,7 @@ import Cart from './components/Cart/Cart';
 import CartProvider from './store/CartProvider';
 
 function App() {
-
+// LoadMeals();
   const [cartIsShown, setCartIsShown] = useState(false);
 
   const showCartHandler = () => {
